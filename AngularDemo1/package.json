@@ -1,0 +1,14 @@
+{
+  "name": "angulardemo",
+  "version": "1.0.0",
+  "description": "choi do ma",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "xam"
+  },
+  "author": "nptan2005",
+  "license": "ISC"
+}
